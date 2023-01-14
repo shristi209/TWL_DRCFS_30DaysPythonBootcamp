@@ -1,6 +1,9 @@
 ##Final Project of Reddit Scraping is here
+
 Lets go with the following steps:
+
 #Step 1: 
+
 import requests, bs4 and csv.
 These lines of code are using the Python requests library to send HTTP requests to a web page, the BeautifulSoup library to parse the HTML of the web page, and the csv library to read and write CSV files.
 #Step 2:
